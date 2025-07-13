@@ -8,11 +8,11 @@ When activated, Pesticide injects custom CSS into the current tab, applying colo
 
 ## ✨ Features
 
-✅ One-click toggle to enable or disable visual outlines without needing page reload
-🎨 Faithfully reflects the original website's CSS — no hover effects, no color changes, no shadows.
-🌍 Works on any website
-🔐 Built using Manifest V3 for enhanced security and performance
-🚫 No interference with site functionality or user interactions
+✅ One-click toggle to enable or disable visual outlines without needing page reload  
+🎨 Faithfully reflects the original website's CSS — no hover effects, no color changes, no shadows  
+🌍 Works on any website  
+🔐 Built using Manifest V3 for enhanced security and performance  
+🚫 No interference with site functionality or user interactions  
 
 ## 🚀 How to use
 
@@ -43,12 +43,6 @@ This version has been updated to use Manifest V3, which includes:
 - Using chrome.scripting API for content script injection
 
 ## 🙏 Acknowledgements
-
-The original *Pesticide CSS* by created by Adam Morse (mrmrs).
-
-The extension and its predecesors (this one is forked ) has been maintanined and coded by
-Bailey Hadden
-Paul Molluzzo
 
 This extension is built upon the original Pesticide CSS created by Adam Morse (mrmrs).
 
