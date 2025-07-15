@@ -2,6 +2,8 @@
 
 ![Pesticide logo](./icon_128.png)
 
+<a href="https://chromewebstore.google.com/detail/pesticide-without-hover-b/ibaidbcedfbojihflojeekadmebnlbpb"><img src="./images/chrome-store.png"></a>
+
 **Pesticide** is a Chrome extension designed to help you visualize the layout and structure of any webpage by outlining every HTML element. It’s a powerful tool for debugging CSS and understanding how elements are nested on the page.
 
 When activated, Pesticide injects custom CSS into the current tab, applying colored outlines to all elements based on their type. This makes it easy to identify spacing, nesting, and potential layout issues at a glance.
